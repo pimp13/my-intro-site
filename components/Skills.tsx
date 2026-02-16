@@ -4,11 +4,11 @@ export default function Skills() {
   const skillCategories = [
     {
       category: 'Languages',
-      skills: ['Golang', 'Python', 'TypeScript', 'JavaScript', 'Bash'],
+      skills: ['Golang', 'Python', 'TypeScript', 'JavaScript', 'Bash', 'NodeJS'],
     },
     {
       category: 'Backend & DevOps',
-      skills: ['Linux/Unix', 'Docker', 'Kubernetes', 'CI/CD', 'System Design'],
+      skills: ['Linux/Unix', 'Docker', 'Kubernetes', 'CI/CD', 'System Design', 'Jenkins'],
     },
     {
       category: 'Frontend',
@@ -16,7 +16,11 @@ export default function Skills() {
     },
     {
       category: 'Tools & Platforms',
-      skills: ['Git', 'PostgreSQL', 'Redis', 'AWS', 'GitHub Actions'],
+      skills: ['Git', 'PostgreSQL', 'Redis', 'GitHub Actions'],
+    },
+    {
+      category: 'Frameworks',
+      skills: ['Gin', 'Echo', 'Django', 'Flask', 'NestJS', 'NodeJS(express)'],
     },
   ]
 

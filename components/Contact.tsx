@@ -29,7 +29,7 @@ export default function Contact() {
     {
       name: 'GitHub',
       icon: Github,
-      href: 'https://github.com',
+      href: 'https://github.com/pimp13',
       label: '@yourname',
     },
     {
@@ -41,8 +41,8 @@ export default function Contact() {
     {
       name: 'Email',
       icon: Mail,
-      href: 'mailto:your.email@example.com',
-      label: 'your.email@example.com',
+      href: 'mailto:pimp.puma.13@gmail.com',
+      label: 'pimp.puma.13@gmail.com',
     },
   ]
 
@@ -144,7 +144,7 @@ export default function Contact() {
       {/* Footer */}
       <div className="border-t border-border mt-16 pt-8">
         <p className="text-center text-sm text-muted-foreground">
-          © 2024 Your Name. All rights reserved. | Crafted with passion for great code.
+          © 2024-2026 Pouya Ghazanfary niya. All rights reserved. | Crafted with passion for great code.
         </p>
       </div>
     </section>
