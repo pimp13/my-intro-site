@@ -19,8 +19,10 @@ export default function Hero() {
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-8">
           <button className="px-8 py-3 bg-primary text-primary-foreground rounded-lg font-semibold hover:opacity-90 transition-opacity flex items-center gap-2 group">
-            <a href="http://185.19.201.107:4255/">View My Work</a>
-            <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+            <a href="http://185.19.201.107:4255/">
+              View My Work
+              <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+            </a>
           </button>
           <button className="px-8 py-3 border border-border rounded-lg font-semibold hover:bg-secondary transition-colors">
             Get in Touch
