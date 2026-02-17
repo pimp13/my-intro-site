@@ -30,13 +30,13 @@ export default function Contact() {
       name: 'GitHub',
       icon: Github,
       href: 'https://github.com/pimp13',
-      label: '@yourname',
+      label: '@pimp13',
     },
     {
       name: 'LinkedIn',
       icon: Linkedin,
       href: 'https://linkedin.com',
-      label: 'Your Name',
+      label: 'Pouya Ghazanfary niya',
     },
     {
       name: 'Email',
