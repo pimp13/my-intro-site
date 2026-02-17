@@ -18,7 +18,7 @@ export default function Hero() {
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-8">
           <a className="px-8 py-3 bg-primary text-primary-foreground rounded-lg font-semibold hover:opacity-90 transition-opacity flex items-center gap-2 group"
-            href="http://185.19.201.107:4255/jira">
+            href="https://jira.apophis.ir">
             View My Work
             <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
           </a>
